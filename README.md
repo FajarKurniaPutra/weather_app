@@ -35,7 +35,7 @@ Menyusun tampilan aplikasi dengan tema gelap (dark mode), ikon cuaca dinamis, su
 
 Setelah aplikasi berhasil dijalankan, aplikasi akan menampilkan data cuaca secara real-time seperti gambar berikut:
 
-![Hasil Akhir Aplikasi Cuaca](image.png)
+![Hasil Akhir Aplikasi Cuaca](images\image.png)
 
 ---
 
